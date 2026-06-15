@@ -1,10 +1,12 @@
 # guac
-# ingredients
-# instuctions
+## ingredients
 
+lime\n
+cilantro\n
+avocado\n
+salt\n
+pepper\n 
 
-#lime
-#cilantro
-#avocado
-#salt
-#pepper 
+## instuctions
+
+1. Add one avocado to a bowl
