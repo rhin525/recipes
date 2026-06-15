@@ -3,7 +3,7 @@
 # instuctions
 # new
 
-#lime
+#lime, or lemon if desired.
 #cilantro
 #avocado
 #salt
