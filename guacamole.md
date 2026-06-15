@@ -1,12 +1,12 @@
-# guac
+## guac
 # ingredients
-# new
+new
 
-#lime
-#cilantro
-#avocado
-#salt
-#pepper 
+lime
+cilantro
+avocado
+salt
+pepper 
 
 # instuctions
 
