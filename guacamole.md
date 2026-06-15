@@ -1,7 +1,7 @@
 # guac
 # ingredients
 # instuctions
-# new
+
 
 #lime
 #cilantro
